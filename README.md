@@ -1,4 +1,4 @@
-# Computer-Vision-Material
+# Computer-Vision-Materials
 
 ## Books
 
@@ -50,30 +50,17 @@
 
 ## Papers
 
-#### Conference papers on the web
+### Conference papers on the web
  * [CVPapers](http://www.cvpapers.com/) - Computer vision papers on the web
  * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
  * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
  * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
- * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
- * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://iris.usc.edu/Information/Iris-Conferences.html) - (USC)
-
-#### Recent Conference Talks
- * [CVPR 2015](http://www.pamitc.org/cvpr15/) - Jun 2015
-- [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
-- [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
-- [ICCV 2013](http://techtalks.tv/iccv2013/) - Dec 2013
-- [ICML 2013](http://techtalks.tv/icml/2013/) - Jul 2013
-- [CVPR 2013](http://techtalks.tv/cvpr2013/) - Jun 2013
-- [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
-- [ICML 2012](http://techtalks.tv/icml/2012/orals/) - Jun 2012
-- [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
-
-#### 3D Computer Vision
+ 
+### 3D Computer Vision
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
  * [Reconstructing the World from Photos on the Internet](https://www.youtube.com/watch?v=04Kgg3QEXFI) - Steve Seitz (University of Washington) 2013
 
-#### Computational Photography
+### Computational Photography
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (Microsoft Research) 2013
  * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (MIT) 2011
  * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (The Hebrew University of Jerusalem) 2011
@@ -83,26 +70,25 @@
  * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
  * [Overview of Computer Vision and Visual Effects](https://www.youtube.com/watch?v=rE-hVtytT-I) - Rich Radke (Rensselaer Polytechnic Institute) 2014
 
-#### Learning and Vision
+### Learning and Vision
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (MIT) 2011
  * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (CMU) 2008
  * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (The Hebrew University of Jerusalem) 2009
 
-#### Object Recognition
+### Object Recognition
  * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (Microsoft Research)
  * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
-
-	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
+* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
 
 ## Software
 
-#### External Resource Links
+### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (West Virginia University)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html)
 
-#### General Purpose Computer Vision Library
+### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/)
 * [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
@@ -114,7 +100,7 @@
 * [PCL: Point Cloud Library](http://pointclouds.org/)
 * [ImageUtilities](https://gitorious.org/imageutilities)
 
-#### Multiple-view Computer Vision
+### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
 * [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://staffhome.ecm.uwa.edu.au/~00011811/Research/MatlabFns/index.html)
 * [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
@@ -129,7 +115,7 @@
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
 
-#### Feature Detection and Extraction
+### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/)
   * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
@@ -144,21 +130,19 @@
   * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
 * [Local Binary Patterns](https://github.com/nourani/LBP)
 
-#### High Dynamic Range Imaging
+### High Dynamic Range Imaging
 * [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)
 
-#### Semantic Segmentation
+### Semantic Segmentation
 * [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
 
-#### Low-level Vision
-
-###### Stereo Vision
+### Stereo Vision
  * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
  * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
 
-###### Optical Flow
+### Optical Flow
  * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
@@ -168,10 +152,10 @@
  * [C++/MatLab Optical Flow by C. Liu (based on Brox et al. and Bruhn et al.)](http://people.csail.mit.edu/celiu/OpticalFlow/)
  * [Parallel Robust Optical Flow by Sánchez Pérez et al.](http://www.ctim.es/research_works/parallel_robust_optical_flow/)
 
-###### Image Denoising
+### Image Denoising
 BM3D, KSVD,
 
-###### Super-resolution
+### Super-resolution
  * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
     * Pickup, L. C. Machine Learning in Multi-frame Image Super-resolution, PhD thesis 2008
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
@@ -195,7 +179,7 @@ BM3D, KSVD,
  * [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
     * Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution using Transformed Self-Exemplars, IEEE Conference on Computer Vision and Pattern Recognition, 2015
 
-###### Image Deblurring
+### Image Deblurring
 
 Non-blind deconvolution
  * [Spatially variant non-blind deconvolution](http://homes.cs.washington.edu/~shanqi/work/spvdeconv/)
@@ -225,27 +209,27 @@ Non-uniform Deblurring
  * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
 
 
-###### Image Completion
+### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
  * [Priority BP](http://lafarren.com/image-completer/)
  * [ImageMelding](http://www.ece.ucsb.edu/~psen/melding)
  * [PlanarStructureCompletion](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
-###### Image Retargeting
+### Image Retargeting
  * [RetargetMe](http://people.csail.mit.edu/mrub/retargetme/)
 
-###### Alpha Matting
+### Alpha Matting
  * [Alpha Matting Evaluation](http://www.alphamatting.com/)
  * [Closed-form image matting](http://people.csail.mit.edu/alevin/matting.tar.gz)
  * [Spectral Matting](http://www.vision.huji.ac.il/SpectralMatting/)
  * [Learning-based Matting](http://www.mathworks.com/matlabcentral/fileexchange/31412-learning-based-digital-matting)
  * [Improving Image Matting using Comprehensive Sampling Sets](http://www.alphamatting.com/ImprovingMattingComprehensiveSamplingSets_CVPR2013.zip)
 
-###### Image Pyramid
+### Image Pyramid
 * [The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
 * [CurveLab](http://www.curvelet.org/)
 
-###### Edge-preserving image processing
+### Edge-preserving image processing
  * [Fast Bilateral Filter](http://people.csail.mit.edu/sparis/bf/)
  * [O(1) Bilateral Filter](http://www.cs.cityu.edu.hk/~qiyang/publications/code/qx.cvpr09.ctbf.zip)
  * [Recursive Bilateral Filtering](http://www.cs.cityu.edu.hk/~qiyang/publications/eccv-12/)
@@ -256,12 +240,7 @@ Non-uniform Deblurring
  * [Adaptive Manifold](http://inf.ufrgs.br/~eslgastal/AdaptiveManifolds/)
  * [Guided image filtering](http://research.microsoft.com/en-us/um/people/kahe/eccv10/)
 
-#### Intrinsic Images
-
-* [Recovering Intrinsic Images with a global Sparsity Prior on Reflectance](http://people.tuebingen.mpg.de/mkiefel/projects/intrinsic/)
-* [Intrinsic Images by Clustering](http://giga.cps.unizar.es/~elenag/projects/EGSR2012_intrinsic/)
-
-#### Contour Detection and Image Segmentation
+### Contour Detection and Image Segmentation
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
  * [Graph-based Segmentation](http://cs.brown.edu/~pff/segment/)
  * [Normalized Cut](http://www.cis.upenn.edu/~jshi/software/)
@@ -279,7 +258,7 @@ Non-uniform Deblurring
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
  * [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges)
 
-#### Interactive Image Segmentation
+### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
  * [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
  * [Lazy Snapping](http://research.microsoft.com/apps/pubs/default.aspx?id=69040)
@@ -287,24 +266,22 @@ Non-uniform Deblurring
  * [Geodesic Graph Cut](http://www.adobe.com/technology/people/san-jose/brian-price.html)
  * [Segmentation by Transduction](http://www.cs.cmu.edu/~olivierd/)
 
-#### Video Segmentation
+### Video Segmentation
  * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
  * [Efficient hierarchical graph-based video segmentation](http://www.cc.gatech.edu/cpl/projects/videosegmentation/)
  * [Object segmentation in video](http://lmb.informatik.uni-freiburg.de/Publications/2011/OB11/)
  * [Streaming hierarchical video segmentation](http://www.cse.buffalo.edu/~jcorso/r/supervoxels/)
 
-#### Camera calibration
+### Camera calibration
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
  * [Camera calibration With OpenCV](http://docs.opencv.org/trunk/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#)
  * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
 
-#### Simultaneous localization and mapping
-
-###### SLAM community:
+### SLAM 
  * [openSLAM](https://www.openslam.org/)
  * [Kitti Odometry: benchmark for outdoor visual odometry (codes may be available)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
-###### Tracking/Odometry:
+### Tracking
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
  * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
  * [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion)
@@ -317,26 +294,18 @@ Non-uniform Deblurring
  * [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam)
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
-###### Graph Optimization:
- * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
- * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
-
-###### Loop Closure:
- * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/2.4/modules/contrib/doc/openfabmap.html)
- * [DBoW2: binary bag-of-words loop detection system](http://webdiis.unizar.es/~dorian/index.php?p=32)
-
-###### Localization & Mapping:
+### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
  * [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
  * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
 
-#### Single-view Spatial Understanding
+### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
  * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
  * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
  * [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
-#### Object Detection
+### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
  * [VOC-DPM](https://github.com/rbgirshick/voc-dpm)
@@ -347,7 +316,7 @@ Non-uniform Deblurring
  * [Edge Boxes](https://github.com/pdollar/edges)
  * [ReInspect](https://github.com/Russell91/ReInspect)
 
-#### Visual Tracking
+### Visual Tracking
 * [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
 * [Visual Tracking Challenge](http://www.votchallenge.net/)
 * [Kanade-Lucas-Tomasi Feature Tracker](http://www.ces.clemson.edu/~stb/klt/)
@@ -365,63 +334,63 @@ Non-uniform Deblurring
 * [CF2: Hierarchical Convolutional Features for Visual Tracking](https://sites.google.com/site/jbhuang0604/publications/cf2)
 * [Modular Tracking Framework](http://webdocs.cs.ualberta.ca/~vis/mtf/index.html)
 
-###### Stereo Vision
+### Stereo Vision
  * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
  * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
 
-###### Optical Flow
+### Optical Flow
  * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
 
-###### Video Object Segmentation
+### Video Object Segmentation
  * [DAVIS: Densely Annotated VIdeo Segmentation](http://davischallenge.org/)
  * [SegTrack v2](http://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html)
 
-###### Change Detection
+### Change Detection
  * [Labeled and Annotated Sequences for Integral Evaluation of SegmenTation Algorithms](http://www.gti.ssr.upm.es/data/LASIESTA)
  * [ChangeDetection.net](http://www.changedetection.net/)
 
-###### Image Super-resolutions
+### Image Super-resolutions
  * [Single-Image Super-Resolution: A Benchmark](https://eng.ucmerced.edu/people/cyang35/ECCV14/ECCV14.html)
 
-#### Intrinsic Images
+### Intrinsic Images
  * [Ground-truth dataset and baseline evaluations for intrinsic image algorithms](http://www.mit.edu/~kimo/publications/intrinsic/)
  * [Intrinsic Images in the Wild](http://opensurfaces.cs.cornell.edu/intrinsic/)
  * [Intrinsic Image Evaluation on Synthetic Complex Scenes](http://www.cic.uab.cat/sesets/synthetic_intrinsic_image_dataset/)
 
-#### Material Recognition
+### Material Recognition
  * [OpenSurface](http://opensurfaces.cs.cornell.edu/)
  * [Flickr Material Database](http://people.csail.mit.edu/celiu/CVPR2010/)
  * [Materials in Context Dataset](http://opensurfaces.cs.cornell.edu/publications/minc/)
 
-#### Multi-view Reconsturction
+### Multi-view Reconsturction
 * [Multi-View Stereo Reconstruction](http://vision.middlebury.edu/mview/)
 
 
-###### Image Classification
+### Image Classification
  * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
  * [ImageNet Large Scale Visual Recognition Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
 
-###### Scene Recognition
+### Scene Recognition
  * [SUN Database](http://groups.csail.mit.edu/vision/SUN/)
  * [Place Dataset](http://places.csail.mit.edu/)
 
-###### Object Detection
+### Object Detection
  * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
  * [ImageNet Object Detection Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
  * [Microsoft COCO](http://mscoco.org/)
 
-###### Semantic labeling
+### Semantic labeling
  * [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
  * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
  * [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
  * [SIFT Flow Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/siftflow/SiftFlowDataset.zip)
 
-###### Multi-view Object Detection
+### Multi-view Object Detection
  * [3D Object Dataset](http://cvgl.stanford.edu/resources.html)
  * [EPFL Car Dataset](http://cvlab.epfl.ch/data/pose)
  * [KTTI Dection Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php)
@@ -429,34 +398,19 @@ Non-uniform Deblurring
  * [PASCAL 3D+](http://cvgl.stanford.edu/projects/pascal3d.html)
  * [NYU Car Dataset](http://nyc3d.cs.cornell.edu/)
 
-###### Fine-grained Visual Recognition
+### Fine-grained Visual Recognition
  * [Fine-grained Classification Challenge](https://sites.google.com/site/fgcomp2013/)
  * [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html)
 
-###### Pedestrian Detection
+### Pedestrian Detection
  * [Caltech Pedestrian Detection Benchmark](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
  * [ETHZ Pedestrian Detection](https://data.vision.ee.ethz.ch/cvl/aess/dataset/)
 
-#### Action Recognition
-
-###### Image-based
-
-###### Video-based
- * [HOLLYWOOD2 Dataset](http://www.di.ens.fr/~laptev/actions/hollywood2/)
- * [UCF Sports Action Data Set](http://crcv.ucf.edu/data/UCF_Sports_Action.php)
-
-###### Image Deblurring
+### Image Deblurring
  * [Sun dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
  * [Levin dataset](http://www.wisdom.weizmann.ac.il/~levina/papers/LevinEtalCVPR09Data.rar)
 
-#### Image Captioning
+### Image Captioning
  * [Flickr 8K](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
  * [Flickr 30K](http://shannon.cs.illinois.edu/DenotationGraph/)
  * [Microsoft COCO](http://mscoco.org/)
-
-#### Scene Understanding
- # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
- # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
-
-#### Aerial images
- # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
