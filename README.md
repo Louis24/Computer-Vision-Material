@@ -17,6 +17,7 @@
 * [OpenCV Essentials](http://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#) - Oscar Deniz Suarez, Mª del Milagro Fernandez Carrobles, Noelia Vallez Enano, Gloria Bueno Garcia, Ismael Serrano Gracia
 
 ## Courses
+
 * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
 * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
 * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (University of Washington)
@@ -153,7 +154,8 @@
  * [Parallel Robust Optical Flow by Sánchez Pérez et al.](http://www.ctim.es/research_works/parallel_robust_optical_flow/)
 
 ### Image Denoising
-BM3D, KSVD,
+ * [BM3D](http://www.cs.tut.fi/~foi/GCF-BM3D/)
+ * [KSVD](https://sites.fas.harvard.edu/~cs278/papers/ksvd.pdf)
 
 ### Super-resolution
  * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
@@ -201,7 +203,6 @@ BM3D, KSVD,
  * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
  * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
  * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
-
 
 ### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
@@ -363,7 +364,6 @@ BM3D, KSVD,
 
 ### Multi-view Reconsturction
 * [Multi-View Stereo Reconstruction](http://vision.middlebury.edu/mview/)
-
 
 ### Image Classification
  * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
